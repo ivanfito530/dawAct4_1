@@ -1,0 +1,23 @@
+[33mcommit 50fc22a634b31bf461a24e9ae3b2f4fe87bf323b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mversion1[m[33m)[m
+Author: GitClient <gitivan@daw.org>
+Date:   Thu Oct 29 18:21:15 2026 +0000
+
+    Aadido html version 1
+
+[33mcommit b21762b7ab890aa106091dd8b36b833d4b2801b1[m[33m ([m[1;32mmain[m[33m)[m
+Author: GitClient <gitivan@daw.org>
+Date:   Thu Oct 29 18:13:36 2026 +0000
+
+    Aadido html
+
+[33mcommit 7427244c2e024d69ce7825473f570b2db34bb882[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ivan <ivafitlar@alu.edu.gva.es>
+Date:   Thu Oct 29 18:53:59 2026 +0100
+
+    Subido .gitignore para ignorar el archivo de configuración de VSCode.
+
+[33mcommit 1bcdcdb8b1a708bd55b4928e4bee3e227892f8b7[m
+Author: ivanfito530 <ivanfito530@gmail.com>
+Date:   Thu Oct 29 18:32:40 2026 +0100
+
+    Initial commit
